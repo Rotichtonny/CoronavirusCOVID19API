@@ -9,5 +9,6 @@ namespace CoronavirusCOVID19.Controllers
 {
     public class CoronaController : ApiController
     {
+
     }
 }
